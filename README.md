@@ -31,8 +31,10 @@ Based on the proven **Pomodoro Technique**, this timer automatically guides you 
 
 ## 🖼️ Preview
 
-![Unlock Deep Focus Screenshot](https://github.com/uncn00/pomodoro-timer/ss.png)  
+
+![Unlock Deep Focus Screenshot](ss.png)  
 *Visual preview of the Pomodoro Timer in action.*
+
 
 ---
 
