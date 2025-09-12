@@ -1,5 +1,3 @@
----
-
 # 🚀 Unlock Deep Focus: The Ultimate Pomodoro Timer for Productivity!
 
 Struggling with distractions and procrastination? Conquer your to-do list and achieve deep work with this sleek, distraction-free **Pomodoro timer**. It’s your simple, structured path to sustainable productivity and a powerful tool for anyone who wants to beat burnout.
