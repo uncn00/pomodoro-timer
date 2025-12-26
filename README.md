@@ -32,7 +32,7 @@ Based on the proven **Pomodoro Technique**, this timer automatically guides you 
 ## 🖼️ Preview
 
 
-![Unlock Deep Focus Screenshot](ss.png)  
+![Unlock Deep Focus Screenshot](ss1.png)  
 *Visual preview of the Pomodoro Timer in action.*
 
 
@@ -40,6 +40,6 @@ Based on the proven **Pomodoro Technique**, this timer automatically guides you 
 
 ## 🔗 Get It Now
 
-[**Access Unlock Deep Focus Here**](https://uncai.gumroad.com/l/TheUltimateFocus-ProductivityTimer)  
+[**Access Unlock Deep Focus Here**](https://uncaistore.etsy.com/listing/4431080200/pomodoro-timer-for-deep-focus)  
 
 > Achieve deep focus, beat procrastination, and supercharge your productivity today!
